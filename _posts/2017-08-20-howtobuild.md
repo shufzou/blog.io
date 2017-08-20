@@ -43,7 +43,7 @@ description:
 
 点击 settings 进入设置，修改仓库名为`你的 GitHub 账号名.github.io` ,然后点击 Rename
 
-![by-blog-settings](/img/2017-08-20/by-blog-Settings.jpg "点击 Settings ，然后重命名")
+![by-blog-settings](/img/2017-08-20/by-blog-settings.jpg "点击 Settings ，然后重命名")
 
 > 这其实是一个取巧，因为 GitHub 有两种建立个人博客的方法，而这一种是最为简单的方式。GitHub Pages 即为这里所说的' GitHub 账号名.github.io'。
 
