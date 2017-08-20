@@ -33,4 +33,22 @@ description:
 
 注册完成后，一种方式是采用 Jekyll 进行部署，然后建站。但是更简单的方式是直接拉取别人在 GitHub 上的博客模板。譬如说 [By Blog 的仓库](https://github.com/qiubaiying/qiubaiying.github.io).
 
-![by-blog-fork](/img/2017-08-20/by-blog-fork.jpg "点击右上角的**Fork**即可将代码仓库复制到自己的账号下。")
+![by-blog-fork](/img/2017-08-20/by-blog-fork.jpg "点击右上角的 Fork 即可将代码仓库复制到自己的账号下。")
+
+点击右上角的**Fork**即可将代码仓库复制到自己的账号下。
+
+若没有自动跳转，可以点击刷新，就可以看到自己账号下有了源代码仓库。
+
+### 修改仓库名
+
+点击 settings 进入设置，修改仓库名为`你的 GitHub 账号名.github.io` ,然后点击 Rename
+
+![by-blog-settings](/img/2017-08-20/by-blog-fork.jpg "点击 Settings ，然后重命名")
+
+> 这其实是一个取巧，因为 GitHub 有两种建立个人博客的方法，而这一种是最为简单的方式。GitHub Pages 即为这里所说的' GitHub 账号名.github.io'。
+
+此时，你在浏览器中输入`你的 GitHub 账号名.github.io`，将会看到如下界面：
+
+![by-blog-pages](/img/2017-08-20/by-blog-pages.jpg "正确的界面")
+
+到此为止，个人博客的后端已经完全搭建完毕。如果嫌个人域名价格太贵，直接就可以使用上述域名进行个人博客的更新。
