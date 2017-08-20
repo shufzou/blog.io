@@ -31,4 +31,6 @@ description:
 
 ### 拉取博客模板
 
-注册完成后，
+注册完成后，一种方式是采用 Jekyll 进行部署，然后建站。但是更简单的方式是直接拉取别人在 GitHub 上的博客模板。譬如说 [By Blog 的仓库](https://github.com/qiubaiying/qiubaiying.github.io).
+
+![by-blog-fork](/img/2017-08-20/by-blog-fork.jpg "点击右上角的**Fork**即可将代码仓库复制到自己的账号下。")
