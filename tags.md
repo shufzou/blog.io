@@ -6,7 +6,7 @@ header-img: "img/semantic.jpg"
 ---
 
 
-## 基因列表
+## 标签列表
 
 
 <div id='tag_cloud'>
@@ -27,7 +27,7 @@ header-img: "img/semantic.jpg"
 {% endfor %}
 </ul>
 
-<script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
 <script language="javascript">
 $.fn.tagcloud.defaults = {
     size: {start: 1, end: 1, unit: 'em'},
