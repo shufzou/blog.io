@@ -1,6 +1,6 @@
 # Site settings
 title: 光阴与浮沫
-header-img: "img/green.jpg"
+header-img: "img/bubble.jpg"
 tagline: "cn"
 description: "邹舒帆|记录光阴中残存的浮沫"
 baseurl: ""
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "Shufan Zou"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/blue.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments
 #comments :
