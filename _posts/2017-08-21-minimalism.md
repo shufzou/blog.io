@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 思维总结（1）——极简主义
-date: 2017-08-20
+date: 2017-08-21
 categories: blog
-tags: [思维总结][极简主义]
+tags: [思维总结]
 description:
 ---
 
